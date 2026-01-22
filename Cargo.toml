@@ -22,3 +22,4 @@ description = "Simple and easy to use "script runner" written in Rust."
 # guard against empty input
 # keep defaults in sync with the manifest
 # drop an unused branch
+# keep defaults in sync with the manifest
