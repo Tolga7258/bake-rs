@@ -28,3 +28,4 @@ description = "Simple and easy to use "script runner" written in Rust."
 # guard against empty input
 # clarify the control flow
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
