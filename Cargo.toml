@@ -38,3 +38,4 @@ description = "Simple and easy to use "script runner" written in Rust."
 # guard against empty input
 # match the style used in the rest of the module
 # drop an unused branch
+# guard against empty input
